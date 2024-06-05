@@ -1,0 +1,1 @@
+$('#dsh').text("DASHBOARD BARU");
